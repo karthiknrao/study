@@ -1,0 +1,38 @@
+Role Playing and Persuasion
+     - https://arxiv.org/abs/2402.03299
+     - https://arxiv.org/abs/2409.16727
+     - https://arxiv.org/abs/2401.06373
+     - https://www.mdpi.com/2079-9292/14/16/3259
+
+Persuasive Adversarial Prompts
+     - https://arxiv.org/abs/2512.18244v1
+     - https://arxiv.org/abs/2501.14073v2
+
+Fictionalization and Hypothetical Scenarios
+     - https://arxiv.org/abs/2411.04223
+
+Token Smuggling
+     - https://arxiv.org/abs/2510.10271
+     - https://arxiv.org/abs/2506.07948
+     - https://arxiv.org/abs/2406.19845
+
+Encoding
+     - https://arxiv.org/abs/2402.10601
+
+ASCII Art Attacks
+     - https://arxiv.org/abs/2510.10281
+     - https://arxiv.org/abs/2402.11753
+
+Multilingual Attacks
+     - https://arxiv.org/abs/2502.04322
+     - https://arxiv.org/abs/2606.11202
+
+Distraction and Context Stuffing
+     - https://arxiv.org/abs/2604.23338
+
+Poem Attack
+     - https://arxiv.org/abs/2511.15304
+
+Flip Attack
+     - https://arxiv.org/abs/2410.02832
+
